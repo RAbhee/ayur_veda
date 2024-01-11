@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1027991282606",
+    "project_id": "newayurveda-a79d7",
+    "storage_bucket": "newayurveda-a79d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027991282606:android:80c3eb4caff41e5cef9e3f",
+        "android_client_info": {
+          "package_name": "com.example.ayur_veda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgDuZsoURgPPvQSLnAwRjxKdMsH5hfzqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
